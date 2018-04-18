@@ -1,0 +1,28 @@
+.container-mod {
+    position: relative;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.my-padding {
+    padding-right: 2px;
+    padding-left: 0px;
+}
+.my-red {
+    color: red;
+}
+.my-green {
+    color: green;
+}
+
+.my-alert-danger {
+    background-color: #f2dede;
+    border-color: #ebcccc;
+    color: #a94442;
+    border: 1px solid transparent;
+}
+
+
+
+
