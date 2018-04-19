@@ -1,5 +1,4 @@
 # SimpleMusicLibraryDB
 
-This is first commit of fully working database.
-SQL server username and pass are stored in index.php so it should be used
-only server on localhost or trusted LAN network.
+This is basic PHP + MySQL + router application with no validation or security.
+There are plenty of random futures. Please use for training purposes only.
